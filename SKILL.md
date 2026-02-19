@@ -4,7 +4,7 @@ description: Shift perspective from asking what you want from life to discoverin
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4387
+  version: 1.0.4388
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - life's-question-reversal
